@@ -1,0 +1,5 @@
+moving = false;          // check if move
+target_x = 0;            
+target_y = 0;            
+move_speed = 200 / 20;  // distance/time
+dist = 200;          
