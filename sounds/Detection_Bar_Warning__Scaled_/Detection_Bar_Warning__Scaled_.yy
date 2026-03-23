@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Detection_Bar_Warning__Scaled_",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":18.33796,
+  "exportDir":"",
+  "name":"Detection_Bar_Warning__Scaled_",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Detection_Bar_Warning__Scaled_.mp3",
+  "volume":1.0,
+}
