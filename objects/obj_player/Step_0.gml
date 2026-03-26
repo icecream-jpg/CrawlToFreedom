@@ -1,9 +1,0 @@
-if (moving) {
-   
-    if (point_distance(x, y, target_x, target_y) <= move_speed) {
-        x = target_x;               
-        y = target_y;
-        moving = false;
-        speed = 0;                  
-    }
-}
