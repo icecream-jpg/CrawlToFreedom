@@ -8,8 +8,8 @@
   "name":"obj_button_down",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"movement buttons",
+    "path":"folders/Objects/movement buttons.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite6",
-    "path":"sprites/Sprite6/Sprite6.yy",
+    "name":"spr_move_down",
+    "path":"sprites/spr_move_down/spr_move_down.yy",
   },
   "spriteMaskId":null,
   "visible":true,

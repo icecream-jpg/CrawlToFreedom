@@ -8,8 +8,8 @@
   "name":"obj_button_left",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"movement buttons",
+    "path":"folders/Objects/movement buttons.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite8",
-    "path":"sprites/Sprite8/Sprite8.yy",
+    "name":"spr_move_left",
+    "path":"sprites/spr_move_left/spr_move_left.yy",
   },
   "spriteMaskId":null,
   "visible":true,

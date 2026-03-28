@@ -1,0 +1,5 @@
+with (obj_player) {  
+    array_push(keys_collected, other.key_type); 
+
+instance_destroy(obj_redkey);
+}

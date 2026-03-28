@@ -8,8 +8,8 @@
   "name":"obj_button_up",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"movement buttons",
+    "path":"folders/Objects/movement buttons.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite5",
-    "path":"sprites/Sprite5/Sprite5.yy",
+    "name":"spr_move_up",
+    "path":"sprites/spr_move_up/spr_move_up.yy",
   },
   "spriteMaskId":null,
   "visible":true,

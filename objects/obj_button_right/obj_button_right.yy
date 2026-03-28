@@ -8,8 +8,8 @@
   "name":"obj_button_right",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"movement buttons",
+    "path":"folders/Objects/movement buttons.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite7",
-    "path":"sprites/Sprite7/Sprite7.yy",
+    "name":"spr_move_right",
+    "path":"sprites/spr_move_right/spr_move_right.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -9,8 +9,8 @@
   "name":"obj_redpanel",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"panels",
+    "path":"folders/Objects/panels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite10",
-    "path":"sprites/Sprite10/Sprite10.yy",
+    "name":"spr_panel_red",
+    "path":"sprites/spr_panel_red/spr_panel_red.yy",
   },
   "spriteMaskId":null,
   "visible":true,

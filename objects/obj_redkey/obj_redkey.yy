@@ -9,8 +9,8 @@
   "name":"obj_redkey",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"keys",
+    "path":"folders/Objects/keys.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite9",
-    "path":"sprites/Sprite9/Sprite9.yy",
+    "name":"spr_key_red",
+    "path":"sprites/spr_key_red/spr_key_red.yy",
   },
   "spriteMaskId":null,
   "visible":true,
