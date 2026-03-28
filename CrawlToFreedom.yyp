@@ -45,6 +45,7 @@
   "name":"CrawlToFreedom",
   "resources":[
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
+    {"id":{"name":"Lvl1SoundManager","path":"objects/Lvl1SoundManager/Lvl1SoundManager.yy",},},
     {"id":{"name":"obj_button_down","path":"objects/obj_button_down/obj_button_down.yy",},},
     {"id":{"name":"obj_button_left","path":"objects/obj_button_left/obj_button_left.yy",},},
     {"id":{"name":"obj_button_menu","path":"objects/obj_button_menu/obj_button_menu.yy",},},

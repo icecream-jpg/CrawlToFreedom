@@ -1,0 +1,1 @@
+audio_play_sound(BG_Music_Demo, 1, true)
