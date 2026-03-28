@@ -7,6 +7,9 @@ with (obj_player) {
     hspeed = -move_speed;
     vspeed = 0;      
     moving = true;
+	
+	    move_dir_h = -1;
+        move_dir_v = 0;
 	}
 }
 }

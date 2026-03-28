@@ -6,8 +6,8 @@
   "name":"Object19",
   "overriddenProperties":[],
   "parent":{
-    "name":"CrawlToFreedom",
-    "path":"CrawlToFreedom.yyp",
+    "name":"movement buttons",
+    "path":"folders/Objects/movement buttons.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -26,7 +26,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"Sprite18",
     "path":"sprites/Sprite18/Sprite18.yy",
