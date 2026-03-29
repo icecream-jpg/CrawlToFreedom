@@ -42,3 +42,13 @@ if (moving) {
         moving = false;
     }
 }
+
+//moving animation
+if moving = true {
+	image_speed = 0.2;
+}
+else
+{
+	image_speed = 0;
+}
+	
