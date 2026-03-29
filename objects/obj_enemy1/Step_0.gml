@@ -1,0 +1,1 @@
+audio_emitter_position(emitter, obj_enemy1.x, obj_enemy1.y, 0);
