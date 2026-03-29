@@ -1,3 +1,3 @@
-required_key = "red";     
+required_key = "yellow";     
 
 unlocked = false;
