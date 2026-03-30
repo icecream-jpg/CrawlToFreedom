@@ -20,7 +20,7 @@ state = "patrol";
 target = noone;
 detect_range = 150;
 chase_timer = 0;
-chase_max = room_speed * 3; //chasing for 3 seconds
+chase_max = room_speed * 1; //chasing for 1 seconds
 
 mp_potential_settings(30, 10, 12, 4);
 

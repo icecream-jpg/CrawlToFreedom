@@ -32,7 +32,7 @@ if (state == "patrol") {
         patrol_index = (patrol_index + 1) mod array_length(patrol_points);
     }
 
-    // Vision check
+    // Distance detection ONLY (no wall check)
     var player = instance_find(obj_player, 0);
 
     if (player != noone) {
@@ -41,30 +41,15 @@ if (state == "patrol") {
 
         if (dist <= detect_range) {
 
-            var dir = point_direction(x, y, player.x, player.y);
+            show_debug_message("Player detected");
 
-            var ox = lengthdir_x(6, dir);
-            var oy = lengthdir_y(6, dir);
+            target = player;
+            state = "chase";
 
-            var blocked = collision_line(
-                x + ox, y + oy,
-                player.x, player.y,
-                Object19, false, true
-            );
+            chase_timer = chase_max;
 
-            if (!blocked) {
-
-                show_debug_message("Player detected");
-
-                target = player;
-                state = "chase";
-
-                chase_timer = chase_max;
-                lost_timer = 0;
-
-                return_x = x;
-                return_y = y;
-            }
+            return_x = x;
+            return_y = y;
         }
     }
 }
@@ -86,17 +71,6 @@ if (state == "chase") {
         var ox = lengthdir_x(6, dir);
         var oy = lengthdir_y(6, dir);
 
-        var blocked = collision_line(
-            x + ox, y + oy,
-            target.x, target.y,
-            Object19, false, true
-        );
-
-        if (blocked) {
-            lost_timer += 1;
-        } else {
-            lost_timer = 0;
-        }
 
         // Lose target ONLY after some time (prevents flicker)
         if (lost_timer > room_speed * 0.5) { // 0.5 seconds buffer
@@ -121,7 +95,7 @@ if (state == "return") {
         path_start(path, speed_patrol, path_action_stop, false);
     }
 
-    if (point_distance(x, y, return_x, return_y) < 4) {
+    if (point_distance(x, y, return_x, return_y) < 0) {
         path_end();
         state = "patrol";
     }
