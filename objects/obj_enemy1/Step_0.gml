@@ -5,20 +5,7 @@
 // Update audio emitter
 audio_emitter_position(emitter, x, y, 0);
 
-// Debug
-show_debug_message("State: " + string(state));
-
-// DEBUG: press SPACE to force chase
-if (keyboard_check_pressed(vk_space)) {
-    state = "chase";
-    target = instance_find(obj_player, 0);
-
-    chase_timer = chase_max;
-    lost_timer = 0;
-
-    return_x = x;
-    return_y = y;
-}
+show_debug_message("state:"+state);
 
 // ================= PATROL =================
 if (state == "patrol") {
@@ -95,7 +82,7 @@ if (state == "return") {
         path_start(path, speed_patrol, path_action_stop, false);
     }
 
-    if (point_distance(x, y, return_x, return_y) < 0) {
+    if (point_distance(x, y, return_x, return_y) < 4) {
         path_end();
         state = "patrol";
     }
