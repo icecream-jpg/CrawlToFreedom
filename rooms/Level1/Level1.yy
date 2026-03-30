@@ -144,12 +144,7 @@
     {"name":"inst_6668D235","path":"rooms/Level1/Level1.yy",},
     {"name":"inst_5ED8BE82","path":"rooms/Level1/Level1.yy",},
     {"name":"inst_7241850E","path":"rooms/Level1/Level1.yy",},
-<<<<<<< HEAD
-    {"name":"inst_723334C3","path":"rooms/Level1/Level1.yy",},
-=======
-    {"name":"inst_C2A6C16","path":"rooms/Level1/Level1.yy",},
-    {"name":"inst_63ED0B98","path":"rooms/Level1/Level1.yy",},
->>>>>>> c6b0e3de1c10849e10a16fa4b45c9ac88a9dfc2f
+
   ],
   "isDnd":false,
   "layers":[
