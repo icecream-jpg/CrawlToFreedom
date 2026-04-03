@@ -6,8 +6,7 @@ speed = 0;
 if (!is_dead) {
     is_dead = true;
 
-
-	room_goto(GameOver);
+    show_message("you are dead");
 
     state = "dead";
     speed = 0;
