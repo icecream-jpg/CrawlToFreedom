@@ -52,7 +52,6 @@
     {"id":{"name":"obj_button_right","path":"objects/obj_button_right/obj_button_right.yy",},},
     {"id":{"name":"obj_button_up","path":"objects/obj_button_up/obj_button_up.yy",},},
 <<<<<<< HEAD
-<<<<<<< HEAD
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_redkey","path":"objects/obj_redkey/obj_redkey.yy",},},
     {"id":{"name":"obj_redpanel","path":"objects/obj_redpanel/obj_redpanel.yy",},},
@@ -60,9 +59,6 @@
     {"id":{"name":"obj_return_to_menu","path":"objects/obj_return_to_menu/obj_return_to_menu.yy",},},
     {"id":{"name":"obj_start_button","path":"objects/obj_start_button/obj_start_button.yy",},},
 =======
-=======
-    {"id":{"name":"obj_detectionbar","path":"objects/obj_detectionbar/obj_detectionbar.yy",},},
->>>>>>> parent of 7c7bc48 (Moved detection bar, added game over screen)
     {"id":{"name":"obj_enemy1","path":"objects/obj_enemy1/obj_enemy1.yy",},},
     {"id":{"name":"obj_fog","path":"objects/obj_fog/obj_fog.yy",},},
     {"id":{"name":"obj_greenkey","path":"objects/obj_greenkey/obj_greenkey.yy",},},

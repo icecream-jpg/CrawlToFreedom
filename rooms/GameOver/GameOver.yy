@@ -17,11 +17,8 @@
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
 <<<<<<< HEAD
-<<<<<<< HEAD
         {"$GMRInstance":"v4","%Name":"inst_4C517551","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4C517551","objectId":{"name":"obj_respawn_button","path":"objects/obj_respawn_button/obj_respawn_button.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0,"scaleY":5.0,"x":576.0,"y":416.0,},
 =======
-=======
->>>>>>> parent of 7c7bc48 (Moved detection bar, added game over screen)
         {"$GMRInstance":"v4","%Name":"inst_58FB0DD6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_58FB0DD6","objectId":{"name":"obj_button_respawn","path":"objects/obj_button_respawn/obj_button_respawn.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":10.0,"scaleY":10.0,"x":352.0,"y":256.0,},
         {"$GMRInstance":"v4","%Name":"inst_5CB3B521","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5CB3B521","objectId":{"name":"obj_button_menu","path":"objects/obj_button_menu/obj_button_menu.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":10.0,"scaleY":10.0,"x":352.0,"y":384.0,},
 >>>>>>> parent of 8858f35 (required to commit something?)
