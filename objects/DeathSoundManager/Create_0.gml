@@ -5,13 +5,6 @@
 /// @DnDSaveInfo : "soundid" "BG_Music_Demo"
 audio_stop_sound(BG_Music_Demo);
 
-/// @DnDAction : YoYo Games.Audio.Stop_Audio
-/// @DnDVersion : 1
-/// @DnDHash : 69A5281D
-/// @DnDArgument : "soundid" "barwarningdemo"
-/// @DnDSaveInfo : "soundid" "barwarningdemo"
-audio_stop_sound(barwarningdemo);
-
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1.1
 /// @DnDHash : 13DC9558

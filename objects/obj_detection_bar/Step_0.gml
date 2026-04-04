@@ -18,14 +18,3 @@ detection_level = clamp(detection_level, 0, max_detection);
 if detection_level = 100 {
 	room_goto(GameOver)
 }
-
-if detection_level > 70 {
-	if (audioPlaying == false){
-		audioPlaying = true
-		audio_play_sound(barwarningdemo, 1, true);}
-
-}
-if detection_level < 70 {
-	audioPlaying = false
-	audio_stop_sound(barwarningdemo);
-}
