@@ -56,7 +56,7 @@
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
     {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},},
     {"id":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},},
- 
+    {"id":{"name":"obj_button_respawn","path":"objects/obj_button_respawn/obj_button_respawn.yy",},},
     {"id":{"name":"obj_button_right","path":"objects/obj_button_right/obj_button_right.yy",},},
     {"id":{"name":"obj_button_up","path":"objects/obj_button_up/obj_button_up.yy",},},
     {"id":{"name":"obj_detection_bar","path":"objects/obj_detection_bar/obj_detection_bar.yy",},},

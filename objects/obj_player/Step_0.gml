@@ -42,9 +42,6 @@ if (keyboard_check_pressed(vk_space)) {
         audio_play_sound(growl_with_echo_1_, 1, false);
     }
 }
-<<<<<<< HEAD
-	
-=======
 
 //move player to win screen when objectives completed
 // check if all are gone from Level1 Room
@@ -59,5 +56,6 @@ var panels_cleared = (instance_number(obj_greenpanel) == 0 &&
 // if conditions met move to win screen room
 if (keys_collected && panels_cleared) {
     room_goto(WinScreen); 
+
 }
->>>>>>> parent of 8bfa856 (Revert "Merge branch 'main' of https://github.com/icecream-jpg/CrawlToFreedom")
+

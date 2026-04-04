@@ -5,8 +5,6 @@
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
-
-
   "instanceCreationOrder":[
     {"name":"inst_493C09","path":"rooms/Level1/Level1.yy",},
     {"name":"inst_EC31ECA","path":"rooms/Level1/Level1.yy",},
@@ -347,8 +345,7 @@
           -2147483648,-3,3,-6,-2147483648,-4,3,1,-2147483648,-7,3,1,-2147483648,-8,3,3,-2147483648,3,3,-20,-2147483648,
           -21,3,2,-2147483648,3,-66,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"Diagonal","path":"tilesets/Diagonal/Diagonal.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":800,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
-
+    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":900,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "name":"Level1",
   "parent":{
