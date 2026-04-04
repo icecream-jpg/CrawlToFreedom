@@ -23,13 +23,6 @@
     {"$GMFolder":"","%Name":"Shaders","folderPath":"folders/Shaders.yy","name":"Shaders","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
-<<<<<<< HEAD
-=======
-    {"$GMFolder":"","%Name":"keys","folderPath":"folders/Sprites/keys.yy","name":"keys","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"movement buttons","folderPath":"folders/Sprites/movement buttons.yy","name":"movement buttons","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"panels","folderPath":"folders/Sprites/panels.yy","name":"panels","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"tilesets","folderPath":"folders/Sprites/tilesets.yy","name":"tilesets","resourceType":"GMFolder","resourceVersion":"2.0",},
->>>>>>> parent of 8858f35 (required to commit something?)
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
@@ -42,39 +35,18 @@
   },
   "name":"CrawlToFreedom",
   "resources":[
-<<<<<<< HEAD
-=======
-    {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
-    {"id":{"name":"Lvl1SoundManager","path":"objects/Lvl1SoundManager/Lvl1SoundManager.yy",},},
->>>>>>> parent of 8858f35 (required to commit something?)
     {"id":{"name":"obj_button_down","path":"objects/obj_button_down/obj_button_down.yy",},},
     {"id":{"name":"obj_button_left","path":"objects/obj_button_left/obj_button_left.yy",},},
     {"id":{"name":"obj_button_right","path":"objects/obj_button_right/obj_button_right.yy",},},
     {"id":{"name":"obj_button_up","path":"objects/obj_button_up/obj_button_up.yy",},},
-<<<<<<< HEAD
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_redkey","path":"objects/obj_redkey/obj_redkey.yy",},},
     {"id":{"name":"obj_redpanel","path":"objects/obj_redpanel/obj_redpanel.yy",},},
     {"id":{"name":"obj_respawn_button","path":"objects/obj_respawn_button/obj_respawn_button.yy",},},
     {"id":{"name":"obj_return_to_menu","path":"objects/obj_return_to_menu/obj_return_to_menu.yy",},},
     {"id":{"name":"obj_start_button","path":"objects/obj_start_button/obj_start_button.yy",},},
-=======
-    {"id":{"name":"obj_enemy1","path":"objects/obj_enemy1/obj_enemy1.yy",},},
-    {"id":{"name":"obj_fog","path":"objects/obj_fog/obj_fog.yy",},},
-    {"id":{"name":"obj_greenkey","path":"objects/obj_greenkey/obj_greenkey.yy",},},
-    {"id":{"name":"obj_greenpanel","path":"objects/obj_greenpanel/obj_greenpanel.yy",},},
-    {"id":{"name":"obj_growl","path":"objects/obj_growl/obj_growl.yy",},},
-    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
-    {"id":{"name":"obj_redkey","path":"objects/obj_redkey/obj_redkey.yy",},},
-    {"id":{"name":"obj_redpanel","path":"objects/obj_redpanel/obj_redpanel.yy",},},
-    {"id":{"name":"obj_yellowkey","path":"objects/obj_yellowkey/obj_yellowkey.yy",},},
-    {"id":{"name":"obj_yellowpanel","path":"objects/obj_yellowpanel/obj_yellowpanel.yy",},},
-    {"id":{"name":"Object19","path":"objects/Object19/Object19.yy",},},
-    {"id":{"name":"TitlescreenSoundManager","path":"objects/TitlescreenSoundManager/TitlescreenSoundManager.yy",},},
->>>>>>> parent of 8858f35 (required to commit something?)
     {"id":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
     {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
-    {"id":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
     {"id":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
     {"id":{"name":"WinScreen","path":"rooms/WinScreen/WinScreen.yy",},},
     {"id":{"name":"BG_Music_Demo","path":"sounds/BG_Music_Demo/BG_Music_Demo.yy",},},
@@ -86,7 +58,6 @@
     {"id":{"name":"enemy_mumble_2_","path":"sounds/enemy_mumble_2_/enemy_mumble_2_.yy",},},
     {"id":{"name":"growl_with_echo_1_","path":"sounds/growl_with_echo_1_/growl_with_echo_1_.yy",},},
     {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},},
-<<<<<<< HEAD
     {"id":{"name":"spr_respawn","path":"sprites/spr_respawn/spr_respawn.yy",},},
     {"id":{"name":"spr_return_to_menu","path":"sprites/spr_return_to_menu/spr_return_to_menu.yy",},},
     {"id":{"name":"spr_start_button","path":"sprites/spr_start_button/spr_start_button.yy",},},
@@ -97,33 +68,6 @@
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},},
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},},
-=======
-    {"id":{"name":"victorydance","path":"sounds/victorydance/victorydance.yy",},},
-    {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
-    {"id":{"name":"spr_enemy1","path":"sprites/spr_enemy1/spr_enemy1.yy",},},
-    {"id":{"name":"spr_key_green","path":"sprites/spr_key_green/spr_key_green.yy",},},
-    {"id":{"name":"spr_key_red","path":"sprites/spr_key_red/spr_key_red.yy",},},
-    {"id":{"name":"spr_key_yellow","path":"sprites/spr_key_yellow/spr_key_yellow.yy",},},
-    {"id":{"name":"spr_move_down","path":"sprites/spr_move_down/spr_move_down.yy",},},
-    {"id":{"name":"spr_move_left","path":"sprites/spr_move_left/spr_move_left.yy",},},
-    {"id":{"name":"spr_move_right","path":"sprites/spr_move_right/spr_move_right.yy",},},
-    {"id":{"name":"spr_move_up","path":"sprites/spr_move_up/spr_move_up.yy",},},
-    {"id":{"name":"spr_panel_green","path":"sprites/spr_panel_green/spr_panel_green.yy",},},
-    {"id":{"name":"spr_panel_red","path":"sprites/spr_panel_red/spr_panel_red.yy",},},
-    {"id":{"name":"spr_panel_yellow","path":"sprites/spr_panel_yellow/spr_panel_yellow.yy",},},
-    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
-    {"id":{"name":"spr_title_screen","path":"sprites/spr_title_screen/spr_title_screen.yy",},},
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
-    {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},},
-    {"id":{"name":"Sprite2_1","path":"sprites/Sprite2_1/Sprite2_1.yy",},},
-    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
-    {"id":{"name":"Sprite3_1","path":"sprites/Sprite3_1/Sprite3_1.yy",},},
-    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
-    {"id":{"name":"Diagonal","path":"tilesets/Diagonal/Diagonal.yy",},},
-    {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
-    {"id":{"name":"TileSet3","path":"tilesets/TileSet3/TileSet3.yy",},},
-    {"id":{"name":"TileSet4","path":"tilesets/TileSet4/TileSet4.yy",},},
->>>>>>> parent of 8858f35 (required to commit something?)
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
@@ -131,13 +75,7 @@
     {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
     {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
     {"roomId":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
-<<<<<<< HEAD
     {"roomId":{"name":"WinScreen","path":"rooms/WinScreen/WinScreen.yy",},},
-=======
-    {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
-    {"roomId":{"name":"WinScreen","path":"rooms/WinScreen/WinScreen.yy",},},
-    {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
->>>>>>> parent of 8858f35 (required to commit something?)
   ],
   "templateType":"game",
   "TextureGroups":[
