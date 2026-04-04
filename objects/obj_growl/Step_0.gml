@@ -14,7 +14,11 @@ for (var i = 0; i < array_length(_targets); i++) {
         // if the growl is passing over this object
         if (abs(_dist - other.radius) < other.growth_speed) {
             growl_active = true;
+<<<<<<< HEAD
             growl_timer = 120; // Stay visible for 2 seconds (60fps * 2)
+=======
+            growl_timer = 120; 
+>>>>>>> parent of 8bfa856 (Revert "Merge branch 'main' of https://github.com/icecream-jpg/CrawlToFreedom")
         }
     }
 }

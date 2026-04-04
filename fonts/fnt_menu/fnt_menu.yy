@@ -127,7 +127,11 @@
     {"lower":32,"upper":127,},
     {"lower":9647,"upper":9647,},
   ],
+<<<<<<< HEAD
   "regenerateBitmap":true,
+=======
+  "regenerateBitmap":false,
+>>>>>>> parent of 8bfa856 (Revert "Merge branch 'main' of https://github.com/icecream-jpg/CrawlToFreedom")
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
   "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)",
