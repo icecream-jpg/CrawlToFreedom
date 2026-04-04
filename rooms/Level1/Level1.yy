@@ -144,9 +144,7 @@
     {"name":"inst_6668D235","path":"rooms/Level1/Level1.yy",},
     {"name":"inst_5ED8BE82","path":"rooms/Level1/Level1.yy",},
     {"name":"inst_7241850E","path":"rooms/Level1/Level1.yy",},
-
     {"name":"inst_723334C3","path":"rooms/Level1/Level1.yy",},
-
   ],
   "isDnd":false,
   "layers":[
@@ -166,9 +164,7 @@
         {"$GMRInstance":"v4","%Name":"inst_F9302C9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_F9302C9","objectId":{"name":"obj_greenkey","path":"objects/obj_greenkey/obj_greenkey.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1209.0,"y":320.0,},
         {"$GMRInstance":"v4","%Name":"inst_207A3E84","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_207A3E84","objectId":{"name":"obj_yellowkey","path":"objects/obj_yellowkey/obj_yellowkey.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":186.0,"y":640.0,},
         {"$GMRInstance":"v4","%Name":"inst_439348AF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_439348AF","objectId":{"name":"Lvl1SoundManager","path":"objects/Lvl1SoundManager/Lvl1SoundManager.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":31.0,"y":736.0,},
-
         {"$GMRInstance":"v4","%Name":"inst_723334C3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_723334C3","objectId":{"name":"obj_enemy1","path":"objects/obj_enemy1/obj_enemy1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.12789288,"scaleY":0.12789287,"x":455.83206,"y":521.2497,},
-
       ],"layers":[
         {"$GMRInstanceLayer":"","%Name":"walls","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
             {"$GMRInstance":"v4","%Name":"inst_7454D063","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7454D063","objectId":{"name":"Object19","path":"objects/Object19/Object19.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":448.0,"y":128.0,},
@@ -349,8 +345,8 @@
   ],
   "name":"Level1",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"CrawlToFreedom-rebuilt",
+    "path":"CrawlToFreedom-rebuilt.yyp",
   },
   "parentRoom":null,
   "physicsSettings":{

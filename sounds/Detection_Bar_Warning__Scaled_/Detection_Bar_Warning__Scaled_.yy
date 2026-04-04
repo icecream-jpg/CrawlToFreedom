@@ -14,8 +14,8 @@
   "exportDir":"",
   "name":"Detection_Bar_Warning__Scaled_",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"CrawlToFreedom-rebuilt",
+    "path":"CrawlToFreedom-rebuilt.yyp",
   },
   "preload":false,
   "resourceType":"GMSound",

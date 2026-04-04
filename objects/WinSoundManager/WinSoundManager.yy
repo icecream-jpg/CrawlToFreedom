@@ -8,8 +8,8 @@
   "name":"WinSoundManager",
   "overriddenProperties":[],
   "parent":{
-    "name":"CrawlToFreedom",
-    "path":"CrawlToFreedom.yyp",
+    "name":"CrawlToFreedom-rebuilt",
+    "path":"CrawlToFreedom-rebuilt.yyp",
   },
   "parentObjectId":null,
   "persistent":false,

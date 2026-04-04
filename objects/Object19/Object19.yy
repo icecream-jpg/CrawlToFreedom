@@ -6,8 +6,8 @@
   "name":"Object19",
   "overriddenProperties":[],
   "parent":{
-    "name":"movement buttons",
-    "path":"folders/Objects/movement buttons.yy",
+    "name":"CrawlToFreedom-rebuilt",
+    "path":"CrawlToFreedom-rebuilt.yyp",
   },
   "parentObjectId":null,
   "persistent":false,

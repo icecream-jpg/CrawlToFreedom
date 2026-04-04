@@ -11,8 +11,8 @@
   "name":"obj_redkey",
   "overriddenProperties":[],
   "parent":{
-    "name":"keys",
-    "path":"folders/Objects/keys.yy",
+    "name":"CrawlToFreedom-rebuilt",
+    "path":"CrawlToFreedom-rebuilt.yyp",
   },
   "parentObjectId":null,
   "persistent":false,

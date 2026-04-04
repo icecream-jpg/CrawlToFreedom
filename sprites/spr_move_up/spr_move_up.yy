@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"movement buttons",
-    "path":"folders/Sprites/movement buttons.yy",
+    "name":"CrawlToFreedom-rebuilt",
+    "path":"CrawlToFreedom-rebuilt.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

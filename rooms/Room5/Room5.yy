@@ -13,8 +13,8 @@
   ],
   "name":"Room5",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"CrawlToFreedom-rebuilt",
+    "path":"CrawlToFreedom-rebuilt.yyp",
   },
   "parentRoom":null,
   "physicsSettings":{

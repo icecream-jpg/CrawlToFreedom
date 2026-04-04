@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"panels",
-    "path":"folders/Sprites/panels.yy",
+    "name":"CrawlToFreedom-rebuilt",
+    "path":"CrawlToFreedom-rebuilt.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

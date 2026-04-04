@@ -11,8 +11,8 @@
   "name":"obj_redpanel",
   "overriddenProperties":[],
   "parent":{
-    "name":"panels",
-    "path":"folders/Objects/panels.yy",
+    "name":"CrawlToFreedom-rebuilt",
+    "path":"CrawlToFreedom-rebuilt.yyp",
   },
   "parentObjectId":null,
   "persistent":false,

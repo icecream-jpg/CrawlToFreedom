@@ -14,8 +14,8 @@
   "exportDir":"",
   "name":"growl_with_echo_1_",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"CrawlToFreedom-rebuilt",
+    "path":"CrawlToFreedom-rebuilt.yyp",
   },
   "preload":false,
   "resourceType":"GMSound",

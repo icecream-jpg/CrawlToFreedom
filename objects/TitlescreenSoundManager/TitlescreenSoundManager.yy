@@ -8,8 +8,8 @@
   "name":"TitlescreenSoundManager",
   "overriddenProperties":[],
   "parent":{
-    "name":"soundManagers",
-    "path":"folders/Objects/soundManagers.yy",
+    "name":"CrawlToFreedom-rebuilt",
+    "path":"CrawlToFreedom-rebuilt.yyp",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -26,8 +26,8 @@
   ],
   "name":"TitleScreen",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"CrawlToFreedom-rebuilt",
+    "path":"CrawlToFreedom-rebuilt.yyp",
   },
   "parentRoom":null,
   "physicsSettings":{

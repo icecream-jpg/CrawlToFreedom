@@ -14,8 +14,8 @@
   "exportDir":"",
   "name":"keycollect",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"CrawlToFreedom-rebuilt",
+    "path":"CrawlToFreedom-rebuilt.yyp",
   },
   "preload":false,
   "resourceType":"GMSound",

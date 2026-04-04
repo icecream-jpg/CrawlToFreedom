@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"detection bar",
-    "path":"folders/Sprites/detection bar.yy",
+    "name":"CrawlToFreedom-rebuilt",
+    "path":"CrawlToFreedom-rebuilt.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

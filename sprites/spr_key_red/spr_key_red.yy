@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"keys",
-    "path":"folders/Sprites/keys.yy",
+    "name":"CrawlToFreedom-rebuilt",
+    "path":"CrawlToFreedom-rebuilt.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
