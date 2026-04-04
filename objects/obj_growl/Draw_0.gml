@@ -1,5 +1,3 @@
-depth=100
-
 // Draw the expanding ring visually
 draw_set_color(c_aqua);
 draw_set_alpha(image_alpha);
