@@ -1,5 +1,5 @@
 var player = instance_nearest(x, y, obj_player);
-if (instance_exists(player) && point_distance(x, y, player.x, player.y) < 50) {//check if player is around
+if (instance_exists(player) && point_distance(x, y, player.x, player.y) < 100) {//check if player is around
     
     var has_key = false;
     for (var i = 0; i < array_length(player.keys_collected); i++) { // check if player have the key

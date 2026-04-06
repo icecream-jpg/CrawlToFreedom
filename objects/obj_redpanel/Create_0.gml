@@ -1,5 +1,5 @@
 required_key = "red";     
-
+depth = -100;   
 unlocked = false;
 
 //growl

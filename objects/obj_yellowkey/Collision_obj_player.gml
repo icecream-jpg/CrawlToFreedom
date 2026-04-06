@@ -3,4 +3,5 @@ with (obj_player) {
 
 instance_destroy(obj_yellowkey);
 audio_play_sound(keycollect, 1, false);
+
 }
