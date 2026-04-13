@@ -4,3 +4,5 @@ audio_play_sound_on(emitter, enemy_mumble_2_, true, 1, 0.25);
 
 spd = 3.2;
 dir = 0;
+move_dist = 256;
+rem_dist = move_dist;
