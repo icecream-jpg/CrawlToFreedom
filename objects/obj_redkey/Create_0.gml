@@ -1,5 +1,5 @@
 key_type= "red" ;
-item = false;
+
 //growl
 growl_active = false;
 growl_timer = 0;

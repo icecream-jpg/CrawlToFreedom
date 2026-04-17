@@ -10,7 +10,7 @@ if (instance_exists(_inst)) {
 
 // check distance to player
 var _dist_to_player = point_distance(x, y, obj_player.x, obj_player.y); // 
-var _fog_radius = 100; 
+var _fog_radius = 150; 
 
 // visbility of sprite, how fast circle grows
 if (growl_timer > 0) {

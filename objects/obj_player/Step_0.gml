@@ -17,19 +17,19 @@ if (moving) {
         moving = false;
         hspeed = 0;
         vspeed = 0;
-        show_debug_message("碰撞墙体，移动终止");
+       
         exit;
     }
     
     var done = false;
     if (target_x != x) {
-        // 水平移动
+   
         if ((hspeed > 0 && x >= target_x) || (hspeed < 0 && x <= target_x)) {
             x = target_x;
             done = true;
         }
     } else if (target_y != y) {
-        // 垂直移动
+      
         if ((vspeed > 0 && y >= target_y) || (vspeed < 0 && y <= target_y)) {
             y = target_y;
             done = true;
